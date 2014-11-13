@@ -1,1 +1,1 @@
-print "h e l l o - resovled"
+print "he l l o - resovled"
